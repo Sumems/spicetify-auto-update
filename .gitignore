@@ -1,0 +1,12 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Spicetify backup (if any found generally)
+*.old
+*.bak
+
+# Temporary files
+*.tmp
+*.log
