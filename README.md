@@ -6,7 +6,7 @@
 
 <a name="english"></a>
 
-## 🇬🇧 English
+## EN | English
 
 This utility (`Manage-SpicetifyAutoUpdate`) helps you manage a special "Standalone Shortcut" that automatically updates Spicetify every time you launch Spotify.
 
@@ -32,9 +32,10 @@ By default, Spicetify might not update automatically, causing themes or extensio
 
 #### Windows (PowerShell)
 
-1.  Right-click `Manage-SpicetifyAutoUpdate.ps1`.
-2.  Select **Run with PowerShell**.
-3.  Follow the interactive menu (Press `1` to Install, `2` to Uninstall).
+1.  Open powershell as administrator and run "Set-ExecutionPolicy -Scope CurrentUser Unrestricted"
+2.  Right-click `Manage-SpicetifyAutoUpdate.ps1`.
+3.  Select **Run with PowerShell**.
+4.  Follow the interactive menu (Press `1` to Install, `2` to Uninstall).
 
 #### Linux (Bash)
 
@@ -53,7 +54,7 @@ By default, Spicetify might not update automatically, causing themes or extensio
 
 <a name="bahasa-indonesia"></a>
 
-## 🇮🇩 Bahasa Indonesia
+## ID | Bahasa Indonesia
 
 Script ini (`Manage-SpicetifyAutoUpdate`) dibuat untuk memudahkan pengelolaan _shortcut_ khusus yang secara otomatis melakukan pembaruan (update) pada Spicetify setiap kali Anda membuka Spotify.
 
