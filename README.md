@@ -80,9 +80,10 @@ Secara default, Spicetify mungkin tidak selalu terupdate otomatis atau terkadang
 
 #### Windows (PowerShell)
 
-1.  Klik kanan pada file `Manage-SpicetifyAutoUpdate.ps1`.
-2.  Pilih **Run with PowerShell**.
-3.  Ikuti menu interaktif yang tersedia (Tekan `1` untuk Install, `2` untuk Uninstall).
+1.  Bukan powershell as administrator dan jalankan "Set-ExecutionPolicy -Scope CurrentUser Unrestricted"
+2.  Klik kanan pada file `Manage-SpicetifyAutoUpdate.ps1`.
+3.  Pilih **Run with PowerShell**.
+4.  Ikuti menu interaktif yang tersedia (Tekan `1` untuk Install, `2` untuk Uninstall).
 
 #### Linux (Bash)
 
